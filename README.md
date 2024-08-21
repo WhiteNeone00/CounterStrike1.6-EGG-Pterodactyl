@@ -3,10 +3,11 @@
 </p>
 
 <p align="center">
-Counter-Strike 1.6 Server (Exe build: 19:52:19 Aug  3 2020 8684), REHLDS, HLDS, AMDMXODX, REUNION, DPROTO, ECC.   
+Counter-Strike 1.6 Server (Exe build: 19:52:19 Aug  3 2020 8684), REHLDS, HLDS, AMDMXODX, REUNION, DPROTO, ECC.
 </p>
 
 <p align="center">
+<a href="#eggs">Eggs</a> ·
 <a href="#systems">System (OS)</a> ·
 <a href="#engines">Engines</a> ·
 <a href="#modules">Metamod Modules</a> ·
@@ -15,6 +16,12 @@ Counter-Strike 1.6 Server (Exe build: 19:52:19 Aug  3 2020 8684), REHLDS, HLDS, 
 <a href="#installation">Installation</a> ·
 <a href="#credits">Credits</a>
 </p>
+
+## Eggs
+| REHLDS                                                                                                          | Author name                          | Status                    |
+| :-------------------------------------------------------------------------------------------------------------- | :----------------------------------- | :------------------------ |
+| [Pelican](https://github.com/oldstyle-community/cstrike_default/blob/main/egg-c-s1-6-b-y-o-l-d-s--r-o.json)     | [Daemon](https://github.com/DemOnJR) | :white_check_mark:        |
+| [Pterodactyl](https://github.com/oldstyle-community/cstrike_default/blob/main/egg-c-s1-6-b-y-o-l-d-s--r-o.json) | [Daemon](https://github.com/DemOnJR) | :construction: Not Tested |
 
 ## Systems
 
