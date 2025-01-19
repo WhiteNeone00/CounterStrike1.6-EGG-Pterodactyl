@@ -22,8 +22,8 @@ Egg for Pelican and Pterodactyl Game Panels to install Counter-Strike 1.6 Server
 
 | Panel (egg download)                                                                                            | Author name                          | Status                    |
 | :-------------------------------------------------------------------------------------------------------------- | :----------------------------------- | :------------------------ |
-| [Pelican](https://github.com/oldstyle-community/cstrike_default/blob/main/egg-c-s1-6-b-y-o-l-d-s--r-o.json)     | [Daemon](https://github.com/DemOnJR) | :white_check_mark:        |
-| [Pterodactyl](https://github.com/oldstyle-community/cstrike_default/blob/main/egg-c-s1-6-b-y-o-l-d-s--r-o.json) | [Daemon](https://github.com/DemOnJR) | :construction: Not Tested |
+| [Pelican](https://github.com/oldstyle-community/cstrike_default/blob/main/egg-c-s1-6-b-y-o-l-d-s--r-o.json)     | [Daemon](https://github.com/DemOnJR) | Click Me(OLD)        |
+| [Pterodactyl](https://raw.githubusercontent.com/WhiteNeone00/CounterStrike1.6-EGG-Pterodactyl/refs/heads/main/egg-c-s1-6-pterodactyl.json) | [Daemon](https://github.com/DemOnJR) | :construction: ✅ |
 
 ## Systems
 
