@@ -17,6 +17,9 @@ Counter-Strike 1.6 Server (Exe build: 19:52:19 Aug  3 2020 8684), REHLDS, HLDS, 
 <a href="#credits">Credits</a>
 </p>
 
+## FastDl
+I added fastdl support to set it up go to my repo: https://github.com/WhiteNeone00/fastdl-cs1.6-pterodactyl/
+
 ## Eggs
 Egg for Pelican and Pterodactyl Game Panels to install Counter-Strike 1.6 Server
 
@@ -79,6 +82,9 @@ Tested
 ## Optional
 
 * Generate an new installer here choosing any optional module that you want to install: [Server Installer Generator](https://olds.ro/creator/server/)
+
+* Adding to server fastdl Support
+start setting this up and install: [Server FastDL Install](https://github.com/WhiteNeone00/fastdl-cs1.6-pterodactyl/blob/main/)
 
 ## Credits
 
