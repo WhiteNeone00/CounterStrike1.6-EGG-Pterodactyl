@@ -1,6 +1,6 @@
 <p align="center">
   Stable and Clean files by <a href="https://olds.ro">OLDS.RO</a>
-</p>
+</p> Remade by WhiteNeone added Ptero Support
 
 <p align="center">
 Counter-Strike 1.6 Server (Exe build: 19:52:19 Aug  3 2020 8684), REHLDS, HLDS, AMDMXODX, REUNION, DPROTO, ECC.
@@ -92,3 +92,7 @@ Tested
 * AMXX4u.pl
 * dev-cs.ru
 * cs.rin.ru
+
+## Edited and Fixed (Updated)
+
+* WhiteNeone00
