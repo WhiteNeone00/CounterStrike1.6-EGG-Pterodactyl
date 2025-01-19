@@ -1,10 +1,10 @@
 {
-    "_comment": "DO NOT EDIT: FILE GENERATED AUTOMATICALLY BY PANEL",
+    "_comment": "DO NOT EDIT: FILE GENERATED AUTOMATICALLY BY PTERODACTYL PANEL - PTERODACTYL.IO",
     "meta": {
         "version": "PTDL_v2",
         "update_url": null
     },
-    "exported_at": "2024-08-20T22:10:48+00:00",
+    "exported_at": "2025-01-19T00:27:44+00:00",
     "name": "CS 1.6 Powered by Fluxoria",
     "author": "arda1murtezan2@gmail.com",
     "description": "This option allows modifying the startup arguments and other details to run a custom HLDS based game on the panel, substituting the official Valve engine binaries with the ReHLDS binaries.",
@@ -17,7 +17,7 @@
     "file_denylist": [],
     "startup": ".\/hlds_run -console -game {{HLDS_GAME}} -port {{SERVER_PORT}} -sport {{VAC_PORT}} +map {{SRCDS_MAP}} +ip 0.0.0.0 -strictportbind -norestart +maxplayers 32 +pingboost 2 +sys_ticrate 1200",
     "config": {
-        "files": "{}",
+        "files": "{\r\n    \"cstrike\/server.cfg\": {\r\n        \"parser\": \"file\",\r\n        \"find\": {\r\n            \"sv_downloadurl\": \"sv_downloadurl \\\"http:\/\/{{env.P_SERVER_LOCATION}}\/{{env.P_SERVER_UUID}}\/cstrike\/\\\"\",\r\n            \"sv_allowdownload\": \"sv_allowdownload \\\"1\\\"\",\r\n            \"sv_allowupload\": \"sv_allowupload \\\"0\\\"\"\r\n        }\r\n    }\r\n}",
         "startup": "{\r\n    \"done\": \"Connection to Steam servers successful\"\r\n}",
         "logs": "{}",
         "stop": "quit"
